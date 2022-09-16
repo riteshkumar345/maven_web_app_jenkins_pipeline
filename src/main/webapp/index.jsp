@@ -5,7 +5,7 @@
   <h1> Software Training Institute </h1>
   
   <h2> Contact Us : +91 - 99 85 39 66 77 </h1>
-  <h2><font color='blue'> Address : Pune MH </font> </h2>
+  <h2><font color='blue'> Address : Pune Lahegaon MH </font> </h2>
   
 </body>
 </html>
